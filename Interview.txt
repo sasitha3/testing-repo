@@ -11,10 +11,3 @@ Learn These things
 		
 		- Assist in the integration testing, system testing, User Acceptance Test (UAT) & implementation activities to fix the reported problems/bugs of the system to ensure the smooth execution of programs in the production environment  
 		
-		- Investigate all reported problems/errors & initiate amendments & testing so that the system can operate correctly & efficiently
-		
-		- Prepare & maintain up-to-date system documentation.   
-		
-		- Analyse functional requirements to translate into application design using established design methodologies and guidelines
-		
-		- Ensure codes comply with NCS security guidelines
