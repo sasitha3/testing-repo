@@ -4,8 +4,7 @@ Learn These things
 	
 	second : 
 		- Make changes to configurable items, which include hardware, software, documentation, etc. 
-		
-		- It covers configuration management planning, configuration identification, configuration controls & audits
+		ation management planning, configuration identification, configuration controls & audits
 		
 		- Develop unit test package, execute
 		- Assist in the integration testing, system testing, User Acceptance Test (UAT) & implementation activities to fix the reported problems/bugs of the system to ensure the smooth execution of programs in the production environment  
