@@ -7,7 +7,6 @@ Learn These things
 		
 		- It covers configuration management planning, configuration identification, configuration controls & audits
 		
-		- Develop unit test package, execute tests & document test results to ensure the quality of the program 
-		
+		- Develop unit test package, execute
 		- Assist in the integration testing, system testing, User Acceptance Test (UAT) & implementation activities to fix the reported problems/bugs of the system to ensure the smooth execution of programs in the production environment  
 		
