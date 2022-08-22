@@ -1,0 +1,20 @@
+Learn These things
+	first : 
+		JEE, Angular, React.js, Spring Framework and Struts
+	
+	second : 
+		- Make changes to configurable items, which include hardware, software, documentation, etc. 
+		
+		- It covers configuration management planning, configuration identification, configuration controls & audits
+		
+		- Develop unit test package, execute tests & document test results to ensure the quality of the program 
+		
+		- Assist in the integration testing, system testing, User Acceptance Test (UAT) & implementation activities to fix the reported problems/bugs of the system to ensure the smooth execution of programs in the production environment  
+		
+		- Investigate all reported problems/errors & initiate amendments & testing so that the system can operate correctly & efficiently
+		
+		- Prepare & maintain up-to-date system documentation.   
+		
+		- Analyse functional requirements to translate into application design using established design methodologies and guidelines
+		
+		- Ensure codes comply with NCS security guidelines
